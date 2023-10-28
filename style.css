@@ -476,7 +476,7 @@
     color:black;
     box-shadow: 0 0 20px;
   }
-  .btn-box{
+  #btn-box{
    display:inline-block;
    padding:12px 28px;
    background: #0ef;
@@ -489,7 +489,7 @@
    margin-top:20px;
    animation: slideBottom 1s ease forwards;
   }
-  .btn-box:hover{
+  #btn-box:hover{
     box-shadow: 0 0 5px cyan,
     0 0 25px cyan, 0 0 50px cyan,
     0 0 100px cyan, 0 0 200px cyan;
