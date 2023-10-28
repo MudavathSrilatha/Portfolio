@@ -37,7 +37,7 @@ const openPdfButton = document.getElementById('btn-box');
 // Add a click event listener to the button
 openPdfButton.addEventListener('click', function() {
     // Replace 'your_pdf_file.pdf' with the path to your PDF file
-    const pdfUrl = 'RESUME_SRI.pdf';
+    const pdfUrl = 'RESUME(1).pdf';
 
     // Open the PDF in a new tab or window
     window.open(pdfUrl, '_blank');
